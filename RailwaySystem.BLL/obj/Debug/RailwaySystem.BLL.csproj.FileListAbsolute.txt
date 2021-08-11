@@ -1,0 +1,11 @@
+C:\Users\Peter\Documents\Business\Truworths\PeterJacobs-RailwaySystem\RailwaySystem.BLL\bin\Debug\RailwaySystem.BLL.dll
+C:\Users\Peter\Documents\Business\Truworths\PeterJacobs-RailwaySystem\RailwaySystem.BLL\bin\Debug\RailwaySystem.BLL.pdb
+C:\Users\Peter\Documents\Business\Truworths\PeterJacobs-RailwaySystem\RailwaySystem.BLL\obj\Debug\RailwaySystem.BLL.csprojAssemblyReference.cache
+C:\Users\Peter\Documents\Business\Truworths\PeterJacobs-RailwaySystem\RailwaySystem.BLL\obj\Debug\RailwaySystem.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Peter\Documents\Business\Truworths\PeterJacobs-RailwaySystem\RailwaySystem.BLL\obj\Debug\RailwaySystem.BLL.dll
+C:\Users\Peter\Documents\Business\Truworths\PeterJacobs-RailwaySystem\RailwaySystem.BLL\obj\Debug\RailwaySystem.BLL.pdb
+C:\Users\Peter\Documents\Business\Truworths\PeterJacobs-RailwaySystem\RailwaySystem.BLL\bin\Debug\RailwaySystem.DAL.dll
+C:\Users\Peter\Documents\Business\Truworths\PeterJacobs-RailwaySystem\RailwaySystem.BLL\bin\Debug\RailwaySystem.TypeLibrary.dll
+C:\Users\Peter\Documents\Business\Truworths\PeterJacobs-RailwaySystem\RailwaySystem.BLL\bin\Debug\RailwaySystem.DAL.pdb
+C:\Users\Peter\Documents\Business\Truworths\PeterJacobs-RailwaySystem\RailwaySystem.BLL\bin\Debug\RailwaySystem.TypeLibrary.pdb
+C:\Users\Peter\Documents\Business\Truworths\PeterJacobs-RailwaySystem\RailwaySystem.BLL\obj\Debug\RailwaySystem.BLL.csproj.CopyComplete

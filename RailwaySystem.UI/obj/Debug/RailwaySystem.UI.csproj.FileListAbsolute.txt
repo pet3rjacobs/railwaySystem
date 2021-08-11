@@ -1,0 +1,14 @@
+C:\Users\Peter\Documents\Business\Truworths\PeterJacobs-RailwaySystem\RailwaySystem.UI\bin\Debug\RailwaySystem.UI.exe.config
+C:\Users\Peter\Documents\Business\Truworths\PeterJacobs-RailwaySystem\RailwaySystem.UI\bin\Debug\RailwaySystem.UI.exe
+C:\Users\Peter\Documents\Business\Truworths\PeterJacobs-RailwaySystem\RailwaySystem.UI\bin\Debug\RailwaySystem.UI.pdb
+C:\Users\Peter\Documents\Business\Truworths\PeterJacobs-RailwaySystem\RailwaySystem.UI\obj\Debug\RailwaySystem.UI.csprojAssemblyReference.cache
+C:\Users\Peter\Documents\Business\Truworths\PeterJacobs-RailwaySystem\RailwaySystem.UI\obj\Debug\RailwaySystem.UI.csproj.CoreCompileInputs.cache
+C:\Users\Peter\Documents\Business\Truworths\PeterJacobs-RailwaySystem\RailwaySystem.UI\obj\Debug\RailwaySystem.UI.exe
+C:\Users\Peter\Documents\Business\Truworths\PeterJacobs-RailwaySystem\RailwaySystem.UI\obj\Debug\RailwaySystem.UI.pdb
+C:\Users\Peter\Documents\Business\Truworths\PeterJacobs-RailwaySystem\RailwaySystem.UI\bin\Debug\RailwaySystem.BLL.dll
+C:\Users\Peter\Documents\Business\Truworths\PeterJacobs-RailwaySystem\RailwaySystem.UI\bin\Debug\RailwaySystem.DAL.dll
+C:\Users\Peter\Documents\Business\Truworths\PeterJacobs-RailwaySystem\RailwaySystem.UI\bin\Debug\RailwaySystem.TypeLibrary.dll
+C:\Users\Peter\Documents\Business\Truworths\PeterJacobs-RailwaySystem\RailwaySystem.UI\bin\Debug\RailwaySystem.BLL.pdb
+C:\Users\Peter\Documents\Business\Truworths\PeterJacobs-RailwaySystem\RailwaySystem.UI\bin\Debug\RailwaySystem.DAL.pdb
+C:\Users\Peter\Documents\Business\Truworths\PeterJacobs-RailwaySystem\RailwaySystem.UI\bin\Debug\RailwaySystem.TypeLibrary.pdb
+C:\Users\Peter\Documents\Business\Truworths\PeterJacobs-RailwaySystem\RailwaySystem.UI\obj\Debug\RailwaySystem.UI.csproj.CopyComplete

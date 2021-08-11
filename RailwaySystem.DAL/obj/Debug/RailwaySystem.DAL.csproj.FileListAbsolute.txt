@@ -1,0 +1,9 @@
+C:\Users\Peter\Documents\Business\Truworths\PeterJacobs-RailwaySystem\RailwaySystem.DAL\obj\Debug\RailwaySystem.DAL.csprojAssemblyReference.cache
+C:\Users\Peter\Documents\Business\Truworths\PeterJacobs-RailwaySystem\RailwaySystem.DAL\obj\Debug\RailwaySystem.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Peter\Documents\Business\Truworths\PeterJacobs-RailwaySystem\RailwaySystem.DAL\bin\Debug\RailwaySystem.DAL.dll
+C:\Users\Peter\Documents\Business\Truworths\PeterJacobs-RailwaySystem\RailwaySystem.DAL\bin\Debug\RailwaySystem.DAL.pdb
+C:\Users\Peter\Documents\Business\Truworths\PeterJacobs-RailwaySystem\RailwaySystem.DAL\bin\Debug\RailwaySystem.TypeLibrary.dll
+C:\Users\Peter\Documents\Business\Truworths\PeterJacobs-RailwaySystem\RailwaySystem.DAL\bin\Debug\RailwaySystem.TypeLibrary.pdb
+C:\Users\Peter\Documents\Business\Truworths\PeterJacobs-RailwaySystem\RailwaySystem.DAL\obj\Debug\RailwaySystem.DAL.csproj.CopyComplete
+C:\Users\Peter\Documents\Business\Truworths\PeterJacobs-RailwaySystem\RailwaySystem.DAL\obj\Debug\RailwaySystem.DAL.dll
+C:\Users\Peter\Documents\Business\Truworths\PeterJacobs-RailwaySystem\RailwaySystem.DAL\obj\Debug\RailwaySystem.DAL.pdb

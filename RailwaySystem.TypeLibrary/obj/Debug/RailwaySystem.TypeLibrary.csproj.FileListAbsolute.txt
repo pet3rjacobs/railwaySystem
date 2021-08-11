@@ -1,0 +1,6 @@
+C:\Users\Peter\Documents\Business\Truworths\PeterJacobs-RailwaySystem\RailwaySystem.TypeLibrary\bin\Debug\RailwaySystem.TypeLibrary.dll
+C:\Users\Peter\Documents\Business\Truworths\PeterJacobs-RailwaySystem\RailwaySystem.TypeLibrary\bin\Debug\RailwaySystem.TypeLibrary.pdb
+C:\Users\Peter\Documents\Business\Truworths\PeterJacobs-RailwaySystem\RailwaySystem.TypeLibrary\obj\Debug\RailwaySystem.TypeLibrary.csprojAssemblyReference.cache
+C:\Users\Peter\Documents\Business\Truworths\PeterJacobs-RailwaySystem\RailwaySystem.TypeLibrary\obj\Debug\RailwaySystem.TypeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Peter\Documents\Business\Truworths\PeterJacobs-RailwaySystem\RailwaySystem.TypeLibrary\obj\Debug\RailwaySystem.TypeLibrary.dll
+C:\Users\Peter\Documents\Business\Truworths\PeterJacobs-RailwaySystem\RailwaySystem.TypeLibrary\obj\Debug\RailwaySystem.TypeLibrary.pdb
